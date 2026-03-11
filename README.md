@@ -1,14 +1,14 @@
 # ![](images/icon/TexTra_cyan44.png) TexTra Quality Checker
 
-<font color='blue'><b>TexTra 翻訳レベルチェッカー</b></font>は<br>
+<span style="color:orange; font-size:1.2em;"><b>TexTra 翻訳レベルチェッカー</b></span>は<br>
 原文に対する訳文の品質をチェックするアプリです。<br>
-<font color='blue'><b>訳文の信頼度</b></font>を３段階で表示します。<br>
+<span style="color:orange; font-size:1.2em;"><b>訳文の信頼度</b></span>を３段階で表示します。<br>
 ![](docs/ja/images/image048.png)<br> 
 
 
-**TexTra Quality Checker** is an application<br>
+<span style="color:orange; font-size:1.2em;"><b>TexTra Quality Checker</b></span> is an application<br>
 that evaluates the quality of a translated text against its original.<br>
-The translation accuracy will be shown in three levels.<br>
+The <span style="color:orange; font-size:1.2em;"><b>translation accuracy</b></span> will be shown in three levels.<br>
 ![](docs/en/images/image046.png)<br> 
 
 
