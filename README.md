@@ -1,18 +1,23 @@
 # ![](images/icon/TexTra_cyan44.png) TexTra Quality Checker
 
-**TexTra 翻訳レベルチェッカー**は<br>
-原文に対する訳文の品質をチェックするアプリです。
+<font color='blue'><b>TexTra 翻訳レベルチェッカー</b></font>は<br>
+原文に対する訳文の品質をチェックするアプリです。<br>
+<font color='blue'><b>訳文の信頼度</b></font>を３段階で表示します。<br>
+![](docs/ja/images/image048.png)<br> 
+
 
 **TexTra Quality Checker** is an application<br>
-that evaluates the quality of a translated text against its original.
-![](docs/ja/images/image002.png)<br> 
+that evaluates the quality of a translated text against its original.<br>
+The translation accuracy will be shown in three levels.<br>
+![](docs/en/images/image046.png)<br> 
+
 
 ------
 
 ## 📥インストール Install
 TexTra Quality Checker.msiを<br>
 本画面の「Releases」からダウンロードして実行してください。<br>
-//https://github.com/NICT-Dev/TexTra-Quality-Checker/releases＜予定＞<br>
+ttps://github.com/NICT-Dev/TexTra-Quality-Checker/releases＜予定＞<br>
 
 インストールが完了後、<br>
 Windowsのメニューとデスクトップに<br>
@@ -24,7 +29,7 @@ https://nict-dev.github.io/TexTra-Quality-Checker/ja/メイン.html
 ................................................................................................................................................<br>
 Please download "TexTra Quality Checker.msi"<br>
 from "Releases" section of this repository and run it.<br>
-//https://github.com/NICT-Dev/TexTra-Quality-Checker/releases = Upcoming Plans =<br>
+ttps://github.com/NICT-Dev/TexTra-Quality-Checker/releases = Upcoming Plans =<br>
 
 After the installation is complete,<br>
 the application icon will be added to the Windows Start menu and to the desktop.<br>
