@@ -3,12 +3,15 @@
 ⭐️<b>TexTra 翻訳レベルチェッカー</b>⭐️</span>は<br>
 原文に対する訳文の品質をチェックするアプリです。<br>
 🔶<b>訳文の信頼度</b>🔶</span>を３段階で表示します。<br>
+🔶<b>逆翻訳</b>🔶</span>で訳文のチェックを行います<br>
+※対応言語 日本語、英語、中国語<br>
 ![](docs/ja/images/image048.png)<br> 
 
 
 ⭐️<b>TexTra Quality Checker</b>⭐️ is an application<br>
 that evaluates the quality of a translated text against its original.<br>
 The 🔶<b>translation accuracy</b>🔶</span> will be shown in three levels.<br>
+ \* Supported languages: Japanese, English, Chinese<br>
 ![](docs/en/images/image046.png)<br> 
 
 
